@@ -1,0 +1,33 @@
+{
+  "name": "HD Flix",
+  "bundleIdentifier": "com.box.hd.flix.drama.hub",
+  "developerName": "Omega",
+  "subtitle": "The All-In-One Movies app for iOS",
+  "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL BE A VIDEO CONVERTER, JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nHD Flix is an app for free Movies and Shows. It has a modern UI and no ads.\n\nStatus: ✅🌟🔥",
+  "iconURL": "https://i.imgur.com/3tQFB9N.png",
+  "tintColor": "#FF5733", 
+  "screenshots": [
+    "https://example.com/hdflix_portrait_1.png",
+    "https://example.com/hdflix_landscape_1.png"
+  ],
+  "versions": [
+    {
+      "version": "5.0",
+      "date": "2024-05-11",
+      "size": 2940000,
+      "downloadURL": "https://download.starfiles.co/7pqifeza8663",
+      "localizedDescription": "Latest update with enhanced performance and bug fixes.",
+      "minOSVersion": "12.0"
+    }
+  ],
+  "appPermissions": {
+    "entitlements": [
+      "com.apple.developer.networking",
+      "com.apple.security.app-sandbox"
+    ],
+    "privacy": {
+      "NSCameraUsageDescription": "App uses camera for video conversion features.",
+      "NSPhotoLibraryUsageDescription": "App needs access to save downloaded movies."
+    }
+  }
+}
