@@ -1,5 +1,5 @@
 {
-  "name": "Hasnain repos ",
+  "name": "Hasnain Repos",
   "identifier": "com.combined.iparepo",
   "apps": [
     {
@@ -17,6 +17,19 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Combined Repo",
+      "subtitle": "YTLite with more features!",
+      "version": "19.34.2",
+      "versionDate": "2024-09-18",
+      "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "category": "social",
+      "size": 103674391
+    },
+    {
+      "name": "YouTube (Omega Version)",
+      "bundleIdentifier": "com.google.ios.youtube.omega",
       "developerName": "Combined Repo",
       "subtitle": "YTLite with more features!",
       "version": "19.34.2",
@@ -99,43 +112,64 @@
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
       "developerName": "Omega",
       "localizedDescription": "Injected with eeveeSpotify, a tweak that gives most Spotify Premium features for free.\n\nStatus: ✅🌟🔥",
-      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png"
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.png/512px-Spotify_App_Logo.png"
     },
     {
-      "name": "TikTok",
-      "bundleIdentifier": "xyz.omega.tiktok",
-      "subtitle": "Updated BH++, working on new versions of TikTok",
-      "versionDate": "2024-09-24",
-      "version": "30.3.0",
-      "size": 195238232,
-      "downloadURL": "https://github.com/raulsaeed/TikTokPlusPlus/releases/download/v.1.1.0/TikTok_36.4.0_BH_v1.1.0.ipa",
+      "name": "Tinder",
+      "bundleIdentifier": "com.happn.tinder",
+      "versionDate": "2024-09-18",
       "developerName": "Omega",
-      "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0040.webp"
+      "subtitle": "Tinder with new features!",
+      "localizedDescription": "This version is modified to improve user experience!\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tinder_icon.png/1200px-Tinder_icon.png",
+      "category": "social",
+      "version": "1.0",
+      "downloadURL": "https://files.catbox.moe/hdldic.ipa",
+      "size": 12542355
     },
     {
-      "name": "Instagram",
-      "bundleIdentifier": "com.burbn.instagram",
-      "subtitle": "Instagram injected with Rocket Cracked!",
-      "versionDate": "2024-09-19",
-      "version": "349.0.8",
+      "name": "Netflix",
+      "bundleIdentifier": "com.netflix.netflixedge",
+      "version": "3.9.7",
+      "versionDate": "2024-09-18",
       "size": 195238232,
-      "downloadURL": "place.holder",
+      "downloadURL": "https://github.com/netflix-netflix-ipa/netflix-ios-ipa/releases/download/1.0.0/netflix-3.9.7.ipa",
       "developerName": "Omega",
-      "localizedDescription": "Instagram Rocket: Another paid Instagram tweak, cracked to be free. I use and prefer ReGram, which is also on my repo.\n\nStatus: ✅🌟",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+      "localizedDescription": "Netflix App.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Netflix_icon.svg/1200px-Netflix_icon.svg.png"
     },
     {
-      "name": "X",
-      "bundleIdentifier": "xyz.omega.bhx",
-      "subtitle": "X with BHTwitter!",
-      "versionDate": "2024-09-19",
-      "version": "4.3",
-      "size": 195238232,
-      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-sideloaded.ipa",
+      "name": "HBO",
+      "bundleIdentifier": "com.hbo.hbogo",
+      "versionDate": "2024-09-18",
+      "version": "5.4.1",
+      "size": 12542355,
+      "downloadURL": "https://github.com/hbo-hbo-ipa/hbo-ios-ipa/releases/download/1.0.0/hbo-5.4.1.ipa",
       "developerName": "Omega",
-      "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo remove follow, Download tweets with media\n\nStatus: ✅🌟🔥",
-      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0042.webp"
+      "localizedDescription": "HBO app.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HBO_Logo.svg/512px-HBO_Logo.svg.png"
+    },
+    {
+      "name": "Amazon Prime Video",
+      "bundleIdentifier": "com.amazon.apv",
+      "version": "5.4.1",
+      "versionDate": "2024-09-18",
+      "size": 12542355,
+      "downloadURL": "https://github.com/amazon-prime-video-ipa/amazon-prime-video-ios-ipa/releases/download/1.0.0/amazon-prime-video-5.4.1.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "Amazon Prime Video app.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Amazon_Prime_Video_Logo.svg/512px-Amazon_Prime_Video_Logo.svg.png"
+    },
+    {
+      "name": "Disney+",
+      "bundleIdentifier": "com.disney.disneyplus",
+      "version": "5.4.1",
+      "versionDate": "2024-09-18",
+      "size": 12542355,
+      "downloadURL": "https://github.com/disneyplus-ipa/disneyplus-ios-ipa/releases/download/1.0.0/disneyplus-5.4.1.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "Disney+ app.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Disney%2B_Logo.svg/512px-Disney%2B_Logo.svg.png"
     }
   ]
 }
