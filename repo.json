@@ -1,0 +1,270 @@
+{
+  "name": "My Example Source",
+  "subtitle": "All my apps in one place.",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "website": "https://example.com",
+  "tintColor": "#4185A9",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": [
+    {
+      "name": "My Example App",
+      "bundleIdentifier": "com.example.myapp",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "tintColor": "#5CA399",
+      "screenshots": [
+        "https://example.com/myapp_portrait_screenshot1.png",
+        "https://example.com/myapp_portrait_screenshot2.png",
+        {
+          "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2022-05-01T09:00:00-08:00",
+          "size": 20000000,
+          "downloadURL": "https://example.com/myapp_v1.1.ipa",
+          "localizedDescription": "New features and bug fixes.",
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-03-16T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://example.com/myapp_v1.0.ipa",
+          "localizedDescription": "Initial release."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+          "NSCameraUsageDescription": "App uses camera to take photos.",
+          "NSMicrophoneUsageDescription": "App uses microphone to record video."
+        }
+      }
+    },
+    {
+      "name": "Another Example App",
+      "bundleIdentifier": "com.example.anotherapp",
+      "developerName": "Example Developer",
+      "subtitle": "Another awesome app.",
+      "localizedDescription": "This is another awesome app only available on AltStore.",
+      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
+      "tintColor": "#3660A2",
+      "screenshots": {
+        "iphone": [
+          "https://example.com/anotherapp_portrait_1.png",
+          "https://example.com/anotherapp_portrait_2.png",
+          {
+            "imageURL": "https://example.com/anotherapp_landscape.png",
+            "width": 2556,
+            "height": 1179
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
+            "width": 1668,
+            "height": 2388
+          },
+          {
+            "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
+            "width": 2388,
+            "height": 1668
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2022-06-21T09:00:00-08:00",
+          "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
+          "localizedDescription": "Bug fixes and performance improvements.",
+          "size": 81514,
+          "minOSVersion": "13.0"
+        },
+        {
+          "version": "1.1",
+          "date": "2022-04-15T10:00:00-08:00",
+          "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
+          "localizedDescription": "New features!",
+          "size": 81364,
+          "minOSVersion": "13.0",
+          "maxOSVersion": "16.3"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-02-02T07:00:00-08:00",
+          "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
+          "localizedDescription": "Initial release.",
+          "size": 79821
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.healthkit",
+          "com.apple.developer.game-center"
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
+        }
+      }
+    },
+    {
+      "name": "Welcome to Omega's IPA Repo!",
+      "bundleIdentifier": "xyz.omegadev.start",
+      "version": "16",
+      "versionDate": "2026-09-18",
+      "size": 142586675,
+      "downloadURL": "https://und3fy-my.sharepoint.com/personal/greenglasst_und3fy_dev/_layouts/15/download.aspx?share=EbSd8fQedLhBjFDPNbAHX6ABNtd4q_8yusax24A2sypEzw",
+      "developerName": "Omega",
+      "localizedDescription": "Welcome to Omega's IPA repo. \n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Recommended by Developer(s)\n\nP.S. Downloading this app will download Twitter.",
+      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg"
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Omega",
+      "subtitle": "YTLite with more features!",
+      "version": "19.34.2",
+      "versionDate": "2024-09-18",
+      "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "category": "social",
+      "size": 103674391
+    },
+    {
+      "name": "HD Flix",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "versionDate": "2024-09-18",
+      "developerName": "Omega",
+      "subtitle": "The All-In-One Movies app for iOS",
+      "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL BE A VIDEO CONVERTER, JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nHD Flix is an app for free Movies and Shows. It has a modern UI and no ads.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://i.imgur.com/3tQFB9N.png",
+      "category": "Entertainment",
+      "version": "5.0",
+      "date": "2024-05-11",
+      "downloadURL": "https://download.starfiles.co/7pqifeza8663",
+      "size": 2940000
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "versionDate": "2024-09-25",
+      "subtitle": "Instagram with Regram and SCinsta!",
+      "version": "349.0.8",
+      "size": 195238232,
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Regram_1.0-b10_347.2.5.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "Injected with ReGram Cracked 1.0b10\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "subtitle": "Spotify injected with Eevee!",
+      "versionDate": "2024-09-18",
+      "version": "8.9.76",
+      "size": 195238232,
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "Injected with eeveeSpotify, a tweak that gives most Spotify Premium features for free.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png"
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "xyz.omega.tiktok",
+      "subtitle": "Updated BH++, working on new versions of TikTok",
+      "versionDate": "2024-09-24",
+      "version": "30.3.0",
+      "size": 195238232,
+      "downloadURL": "https://github.com/raulsaeed/TikTokPlusPlus/releases/download/v.1.1.0/TikTok_36.4.0_BH_v1.1.0.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
+      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0040.webp"
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "xyz.omega.bhx",
+      "subtitle": "X with BHTwitter!",
+      "versionDate": "2024-09-19",
+      "version": "4.3",
+      "size": 195238232,
+      "downloadURL": "https://github.com/BandarHL/BHTwitter/releases/download/4.3/BHTwitter-sideloaded.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "A tweak for Twitter/X. Features:\n\nDownload Videos (even if account private), Custom Tab Bar, No history feature, Hide topics tweet feature, Disable video layer caption, Padlock, Font changer, Enable the new UI of DM search, Auto load photos in highest quality feature, Undo tweet feature, Theme (like Twitter Blue), App icon changer, Twitter Circle feature, Copying profile information feature, Save tweet as an image, Hide spaces bar, Disable RTL, Always open in Safari, Translate bio, Disable new tweet style (A.K.A edge to edge tweet), Enable voice tweet and voice message in DM, Hide promoted tweet from the timeline, Confirm alert when hit the tweet button, Confirm alert when hit like button, Confirm alert when hit follow button, FLEX for debugging.\n\nNote: Tweak has not been updated since February and may face issues on newer version of X.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/Xicon.png"
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "xyz.omega.itorrent",
+      "subtitle": "Torrent client for iOS!",
+      "versionDate": "2024-09-19",
+      "version": "2.0.10-1",
+      "size": 195238232,
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.10-1/iTorrent.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "Torrent client for iOS!\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/IMG_0042.png"
+    },
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "xyz.omega.nullsbrawl",
+      "subtitle": "A private brawl stars server with all items unlocked!",
+      "versionDate": "2024-09-20",
+      "version": "57.325",
+      "size": 195238232,
+      "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa",
+      "developerName": "Omega",
+      "localizedDescription": "A private brawl stars server with all items unlocked!\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://fbi.cults3d.com/uploaders/35332877/illustration-file/47fa742b-db2d-4b01-8f02-688e7bf13e86/Nulls-Brawl.png"
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "xyz.omega.duolingo",
+      "developerName": "Omega",
+      "version": "7.37.1",
+      "versionDate": "2024-09-13",
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+      "localizedDescription": "Duolingo Max unlocked!\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons"
+    }
+  ],
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "new_feature",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2023-03-15",
+      "tintColor": "#5CA399",
+      "imageURL": "https://example.com/new_feature_image.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details"
+    },
+    {
+      "title": "App Update Available",
+      "identifier": "app_update",
+      "caption": "An update is available for My Example App.",
+      "date": "2023-03-10T10:00:00-07:00",
+      "tintColor": "#3660A2",
+      "imageURL": "https://example.com/app_update_image.png",
+      "notify": false,
+      "appID": "com.example.myapp"
+    }
+  ]
+}
