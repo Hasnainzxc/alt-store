@@ -1,0 +1,44 @@
+{
+  "name": "Additional Repositories",
+  "identifier": "com.example.additionalrepos",
+  "apps": [
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Your Developer Name",
+      "subtitle": "Custom YouTube with enhanced features",
+      "version": "19.34.2",
+      "versionDate": "2024-09-18",
+      "downloadURL": "https://your-download-url.com/youtube.ipa",
+      "localizedDescription": "A customized YouTube app with additional features.\n\nKey features:\n- Ad-free experience\n- Background playback\n- Download capability\n\nStatus: ✅",
+      "iconURL": "https://your-icon-url.com/youtube-icon.png",
+      "category": "Social",
+      "size": 103674391
+    },
+    {
+      "name": "Custom App Name",
+      "bundleIdentifier": "com.yourdomain.appname",
+      "developerName": "Your Developer Name",
+      "subtitle": "Brief description of your app",
+      "version": "1.0.0",
+      "versionDate": "2024-09-18",
+      "downloadURL": "https://your-download-url.com/app.ipa",
+      "localizedDescription": "Detailed description of your app.\n\nKey features:\n- Feature 1\n- Feature 2\n- Feature 3\n\nStatus: ✅",
+      "iconURL": "https://your-icon-url.com/app-icon.png",
+      "category": "Entertainment",
+      "size": 50000000
+    }
+  ],
+  "news": [
+    {
+      "title": "New Repository Available",
+      "identifier": "new_repo_announcement",
+      "caption": "Check out our new app repository!",
+      "date": "2024-09-18",
+      "tintColor": "#4A90E2",
+      "imageURL": "https://your-image-url.com/announcement.png",
+      "notify": true,
+      "url": "https://your-website.com/announcement"
+    }
+  ]
+}
