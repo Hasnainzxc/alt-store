@@ -1,44 +1,53 @@
 {
-  "name": "Additional Repositories",
-  "identifier": "com.example.additionalrepos",
+  "name": "Combined IPA Repository",
+  "identifier": "com.combined.iparepo",
   "apps": [
+    {
+      "name": "Welcome to Combined IPA Repo",
+      "bundleIdentifier": "xyz.combined.start",
+      "version": "1.0",
+      "versionDate": "2024-09-26",
+      "size": 142586675,
+      "downloadURL": "https://example.com/placeholder.ipa",
+      "developerName": "Combined Repo",
+      "localizedDescription": "Welcome to the Combined IPA repo.\n\nStatus Icon Meanings:\n✅: Working\n🌟: Premium Features Unlocked\n💸: Paid Tweak, not Cracked\n🔥: Recommended by Developer(s)",
+      "iconURL": "https://raw.githubusercontent.com/Omega-Omega-Omega/Omega-Repo/main/omega%20app%20icon%20v2.jpg",
+      "subtitle": "Welcome to the Combined Repository!"
+    },
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Your Developer Name",
-      "subtitle": "Custom YouTube with enhanced features",
+      "developerName": "Combined Repo",
+      "subtitle": "YTLite with more features!",
       "version": "19.34.2",
       "versionDate": "2024-09-18",
-      "downloadURL": "https://your-download-url.com/youtube.ipa",
-      "localizedDescription": "A customized YouTube app with additional features.\n\nKey features:\n- Ad-free experience\n- Background playback\n- Download capability\n\nStatus: ✅",
-      "iconURL": "https://your-icon-url.com/youtube-icon.png",
-      "category": "Social",
+      "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+      "localizedDescription": "YTLite with more features!\n\nYTLitePlus is an enhanced Youtube app, combining YTLite with other tweaks.\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "category": "social",
       "size": 103674391
     },
     {
-      "name": "Custom App Name",
-      "bundleIdentifier": "com.yourdomain.appname",
-      "developerName": "Your Developer Name",
-      "subtitle": "Brief description of your app",
-      "version": "1.0.0",
-      "versionDate": "2024-09-18",
-      "downloadURL": "https://your-download-url.com/app.ipa",
-      "localizedDescription": "Detailed description of your app.\n\nKey features:\n- Feature 1\n- Feature 2\n- Feature 3\n\nStatus: ✅",
-      "iconURL": "https://your-icon-url.com/app-icon.png",
-      "category": "Entertainment",
-      "size": 50000000
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "versionDate": "2024-09-25",
+      "subtitle": "Instagram with Regram and SCinsta!",
+      "version": "349.0.8",
+      "size": 195238232,
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Regram_1.0-b10_347.2.5.ipa",
+      "developerName": "Combined Repo",
+      "localizedDescription": "Injected with ReGram Cracked 1.0b10\n\nStatus: ✅🌟🔥",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.burbn.instagram.png"
     }
   ],
   "news": [
     {
-      "title": "New Repository Available",
-      "identifier": "new_repo_announcement",
-      "caption": "Check out our new app repository!",
-      "date": "2024-09-18",
+      "title": "Repository Merger Complete",
+      "identifier": "repo_merger",
+      "caption": "All your favorite repos, now in one place!",
+      "date": "2024-09-26",
       "tintColor": "#4A90E2",
-      "imageURL": "https://your-image-url.com/announcement.png",
-      "notify": true,
-      "url": "https://your-website.com/announcement"
+      "notify": true
     }
   ]
 }
