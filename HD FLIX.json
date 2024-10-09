@@ -20,14 +20,5 @@
       "minOSVersion": "12.0"
     }
   ],
-  "appPermissions": {
-    "entitlements": [
-      "com.apple.developer.networking",
-      "com.apple.security.app-sandbox"
-    ],
-    "privacy": {
-      "NSCameraUsageDescription": "App uses camera for video conversion features.",
-      "NSPhotoLibraryUsageDescription": "App needs access to save downloaded movies."
-    }
-  }
+ 
 }
